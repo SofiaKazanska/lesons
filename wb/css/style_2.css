@@ -1,0 +1,21 @@
+ul{
+    list-style:square ;
+}
+ul>li:nth-child(1){
+    color: cornflowerblue;
+}
+ul>li:nth-child(2){
+    color: plum;
+}
+ul>li:nth-child(3){
+    color: powderblue;
+}
+ul>li:nth-child(4){
+    color: palevioletred;
+}
+ul>li:nth-child(5){
+    color: darkblue;
+}
+shadow>p{
+
+}

@@ -1,0 +1,46 @@
+body{
+    background: -webkit-linear-gradient(135deg, rgb(175, 249, 152), rgb(252, 253, 160), rgb(206, 255, 182));
+background: -moz-linear-gradient(135deg, rgb(175, 249, 152), rgb(252, 253, 160), rgb(206, 255, 182));
+background: linear-gradient(135deg, rgb(175, 249, 152), rgb(252, 253, 160), rgb(206, 255, 182));
+}
+table{
+    border:3px solid gold;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th{
+    font-size: 35px;
+    text-align: center;
+    border: 3px solid gold;
+    font-family: 'Qahiri', sans-serif;
+    
+}
+td{
+    font-size: 35px;
+    text-align: center;
+    border: 3px solid gold;
+    font-family: 'Qahiri', sans-serif
+    
+}
+td:hover{
+    color:white;
+    background: -webkit-linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+background: -moz-linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+background: linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+}
+th:hover{
+    color: white;
+    background: -webkit-linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+    background: -moz-linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+    background: linear-gradient(315deg, rgb(253, 255, 137), rgb(144, 251, 246), rgb(196, 255, 182));
+}
+h1{
+    text-align: center;
+    font-family: 'Qahiri', sans-serif;
+    font-size: 50px;
+}
+img{
+    text-align: center; 
+}
+

@@ -1,0 +1,52 @@
+body{
+    margin: 0 ;
+    padding: 0 ;
+}
+table{
+    width: 500px;
+    height: 500px;
+    border: 3px solid coral;
+    margin: 0 auto;
+}
+.first>td:nth-child(1){
+    background-color: cyan;
+}
+.first>td:nth-child(2){
+    background-color: darkorchid;
+}
+.second>td:nth-child(1){
+    background-color: deeppink;
+}
+.second>td:nth-child(2){
+    background-color: gold;
+}
+.second>td:nth-child(3){
+    background-color: red;
+}
+.third>td:nth-child(1){
+    background-color: royalblue;
+}
+.third>td:nth-child(2){
+    background-color: salmon;
+}
+.fourth>td:nth-child(1){
+    background-color: springgreen;
+}
+.fives>td:nth-child(1){
+    background-color: yellowgreen;
+}
+.btn{
+    width: 400px;
+    height: 100px;
+    background-color: violet;
+    border:indigo ;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+    display: block;
+    margin: 20px auto;
+    font-size: 20px;
+}
+.ul{
+   list-style-type: none; 
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: -webkit-linear-gradient(45deg, rgb(62, 27, 96), rgb(168, 208, 231));
+    background: -moz-linear-gradient(45deg, rgb(62, 27, 96), rgb(168, 208, 231));
+    background: linear-gradient(45deg, rgb(62, 27, 96), rgb(168, 208, 231));
+}
+img{
+border-radius: 30%;
+}
+h1{
+font-family: 'Amatic SC', cursive;
+text-align: center;
+}
+p {
+font-family: 'Amatic SC', cursive;
+}
+

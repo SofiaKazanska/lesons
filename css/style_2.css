@@ -1,0 +1,55 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: -webkit-linear-gradient(90deg, rgb(242, 223, 255), rgb(118, 122, 251), rgb(255, 219, 254));
+background: -moz-linear-gradient(90deg, rgb(242, 223, 255), rgb(118, 122, 251), rgb(255, 219, 254));
+background: linear-gradient(90deg, rgb(242, 223, 255), rgb(118, 122, 251), rgb(255, 219, 254));
+    
+}
+h1, p,a{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Qahiri', sans-serif;
+    text-decoration: cornflowerblue;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 40px;
+
+}
+table{
+    width: 100%;
+    margin: 50px auto;
+    height: 800px;
+    border-top: solid 2px rgb(255, 137, 255);
+    padding-top: 25px;
+}
+td{
+    text-align: center;
+    padding-top: 30px;
+    align-items: center;
+    text-decoration: cornflowerblue;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 50px;
+}
+td:hover{
+    border: rgb(99, 54, 99) solid 2px;
+    color: beige;
+    background: -webkit-linear-gradient(180deg, rgb(59, 47, 67), rgb(254, 251, 255), rgb(78, 73, 82));
+background: -moz-linear-gradient(180deg, rgb(59, 47, 67), rgb(254, 251, 255), rgb(78, 73, 82));
+background: linear-gradient(180deg, rgb(59, 47, 67), rgb(254, 251, 255), rgb(78, 73, 82));
+}
+img{
+    width: 200px;
+    height: 600px;
+    padding: auto 0;
+    margin: auto 0;
+} 
+
